@@ -1,0 +1,29 @@
+{
+  "name": "is-timestamp",
+  "version": "1.0.0",
+  "description": "Checks if the value is a timestamp",
+  "license": "MIT",
+  "author": {
+    "name": "François Chalifour",
+    "email": "francois.chalifour@gmail.com",
+    "url": "http://francoischalifour.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "francoischalifour/is-timestamp",
+  "keywords": [
+    "is",
+    "check",
+    "timestamp",
+    "date"
+  ],
+  "bugs": {
+    "url": "https://github.com/francoischalifour/is-timestamp/issues"
+  },
+  "homepage": "https://github.com/francoischalifour/is-timestamp#readme",
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
