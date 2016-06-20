@@ -5,7 +5,7 @@
  *
  * @param  {object}  value            The value to check
  * @param  {Boolean} [isStrict=false] The strict mode
-*                                     `true` to accept only integers
+ *                                    `true` to accept only integers
  * @return {Boolean}                  `true` if timestamp, `false` otherwise
  */
 module.exports = (value, isStrict) => {

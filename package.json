@@ -1,7 +1,7 @@
 {
   "name": "is-timestamp",
   "version": "1.0.0",
-  "description": "Checks if the value is a timestamp",
+  "description": "Checks if a value is a timestamp",
   "license": "MIT",
   "author": {
     "name": "François Chalifour",
